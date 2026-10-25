@@ -38,7 +38,7 @@
       "metadata": {
         "id": "live-0001"
       },
-      "execution_count": 1,
+      "execution_count": null,
       "outputs": [],
       "source": [
         "# --- environment setup (generated, not part of the lesson) ---\n",
@@ -116,7 +116,7 @@
         },
         "outputId": "9864b937-70a1-4a2b-89dc-684b268da999"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -179,7 +179,7 @@
       "metadata": {
         "id": "live-0008"
       },
-      "execution_count": 3,
+      "execution_count": null,
       "outputs": [],
       "source": [
         "import geopandas as gpd\n",
@@ -205,7 +205,7 @@
       "metadata": {
         "id": "live-0010"
       },
-      "execution_count": 4,
+      "execution_count": null,
       "outputs": [],
       "source": [
         "country = gpd.read_file(states_path)"
@@ -233,7 +233,7 @@
         },
         "outputId": "4baa750f-8558-47fe-8e83-5892a14e0ef7"
       },
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -303,7 +303,7 @@
         },
         "outputId": "78c896c1-61d9-4f83-e10c-fbffacc2921c"
       },
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -340,7 +340,7 @@
         },
         "outputId": "21b0ddc2-7dcf-4b01-8eed-fb007ab06e71"
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -588,7 +588,7 @@
         "outputId": "d1001c8d-c055-4d22-d7f6-0b66391d0a51"
       },
       "id": "STxTo0BkkqR8",
-      "execution_count": 22,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -659,7 +659,7 @@
         "outputId": "e95f93e3-14eb-4570-9fac-87595c104367"
       },
       "id": "7ZQA3bxrljW_",
-      "execution_count": 23,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -683,7 +683,7 @@
         },
         "outputId": "661424c5-7750-4404-ee9e-45fb1fdd9680"
       },
-      "execution_count": 26,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -931,7 +931,7 @@
         },
         "outputId": "b0abfdd1-4b95-40cb-92c7-47755bb87b3d"
       },
-      "execution_count": 27,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -991,7 +991,7 @@
         },
         "outputId": "bf8a41fc-fda3-474f-8af3-f78c736db970"
       },
-      "execution_count": 28,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1038,7 +1038,7 @@
         },
         "outputId": "e5604490-6f88-4293-8991-efbe07034aa6"
       },
-      "execution_count": 29,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1123,7 +1123,7 @@
         "outputId": "83e38018-ea33-45a0-c0c5-d32c1d4a8e8e"
       },
       "id": "W5QhKEJLgjSn",
-      "execution_count": 30,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
